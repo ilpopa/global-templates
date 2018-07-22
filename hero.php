@@ -1,7 +1,7 @@
 <?php
 /**
  * Hero setup.
- *
+ *	status
  * @package understrap
  */
 
