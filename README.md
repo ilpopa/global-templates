@@ -1,1 +1,1 @@
-A simple underscores theme.
+A simple underscores theme. With some changes.
